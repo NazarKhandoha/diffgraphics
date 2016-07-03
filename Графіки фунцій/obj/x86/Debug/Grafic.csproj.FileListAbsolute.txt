@@ -1,0 +1,28 @@
+C:\Users\Назар\Desktop\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Grafic.Form1.resources
+C:\Users\Назар\Desktop\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Графіки_фунцій.Properties.Resources.resources
+C:\Users\Назар\Desktop\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Grafic.csproj.GenerateResource.Cache
+C:\Users\Назар\Desktop\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Графіки фунцій.exe
+C:\Users\Назар\Desktop\Графіки фунцій\Графіки фунцій\bin\Debug\Графіки фунцій.exe
+C:\Users\Назар\Desktop\Графіки фунцій\Графіки фунцій\bin\Debug\Графіки фунцій.pdb
+C:\Users\Назар\Desktop\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Графіки фунцій.pdb
+C:\Users\Назар\Desktop\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Grafic.csprojResolveAssemblyReference.cache
+C:\Users\Назар\Desktop\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Графіки фунцій.exe
+C:\Users\Назар\Desktop\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Графіки фунцій.pdb
+C:\Users\Назар\Desktop\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\bin\Debug\Графіки фунцій.exe
+C:\Users\Назар\Desktop\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\bin\Debug\Графіки фунцій.pdb
+C:\Users\Назар\Desktop\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Grafic.csprojResolveAssemblyReference.cache
+C:\Users\Назар\Desktop\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Grafic.Form1.resources
+C:\Users\Назар\Desktop\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Графіки_фунцій.Properties.Resources.resources
+C:\Users\Назар\Desktop\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Grafic.csproj.GenerateResource.Cache
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Графіки фунцій.exe
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Графіки фунцій.pdb
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\bin\Debug\Графіки фунцій.exe
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\bin\Debug\Графіки фунцій.pdb
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Grafic.csprojResolveAssemblyReference.cache
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Grafic.Form1.resources
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Графіки_фунцій.Properties.Resources.resources
+D:\Прикладна Математика\ПМ-32\ПМ-32\Частина 2\Візуальне\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Grafic.csproj.GenerateResource.Cache
+C:\Users\NazarRock\Desktop\ProjectsforGit\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Графіки фунцій.exe
+C:\Users\NazarRock\Desktop\ProjectsforGit\Графіки фунцій\Графіки фунцій\obj\x86\Debug\Графіки фунцій.pdb
+C:\Users\NazarRock\Desktop\Graphics\Графіки фунцій\obj\x86\Debug\Графіки фунцій.exe
+C:\Users\NazarRock\Desktop\Graphics\Графіки фунцій\obj\x86\Debug\Графіки фунцій.pdb

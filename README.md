@@ -1,0 +1,1 @@
+Builds different types functions
